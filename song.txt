@@ -1,1 +1,3 @@
 First line of the text
+
+New lines are added
